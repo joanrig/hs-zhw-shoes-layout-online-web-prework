@@ -22,6 +22,64 @@
   clear: both;
 }
 
+
 /* Posititoning Classes */
+
+#featured_brands {
+  position: relative;
+  top: 10px;
+  
+}
+
+#main_pair {
+  display: block;
+  float: left;
+  width: 66%;
+}
+
+#archives {
+  display: block;
+  float: right;
+  width: 32%;
+  margin: 0 0 0 2%;
+}
+
+#shoe_lb {
+  float: left;
+  width: 32%;
+  clear: both;
+  margin: 2% 2% 0 0;
+}
+
+#shoe_skate{
+  float: left;
+  width: 32%;
+  margin: 2% 2% 0 0;
+}
+
+#shoe_heel{
+  float:left;
+  width: 32%;
+  margin-top: 2%;
+}
+
+#contact {
+  float: left;
+  width: 32%;
+  clear: both;
+  margin: 2% 2% 0 0;
+}
+
+#links{
+  float: left;
+  width: 32%;
+  margin: 2% 2% 0 0;
+}
+
+#follow{
+  float:left;
+  width: 32%;
+  margin-top: 2%;
+}
 
 
